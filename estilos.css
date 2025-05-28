@@ -1,0 +1,24 @@
+h1 {
+
+  text-align: center;
+  color: aliceblue;
+}
+.title{
+  width: 600px;
+  margin: 0 auto;
+  background-color: #010a3a;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+body{
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    width: 600px;
+    font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+}
+h2{
+    color: #0a4379;
+}
+b{
+    color: #0e5da7;
+}
